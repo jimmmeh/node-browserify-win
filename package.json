@@ -1,5 +1,5 @@
 {
-  "name": "browserify",
+  "name": "browserify-win",
   "version": "12.0.1",
   "description": "browser-side require() the node way",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/substack/node-browserify.git"
+    "url": "http://github.com/jimmmeh/node-browserify-win.git"
   },
   "keywords": [
     "browser",
@@ -81,7 +81,7 @@
     "through": "^2.3.4"
   },
   "author": {
-    "name": "James Halliday",
+    "name": "James Ward",
     "email": "mail@substack.net",
     "url": "http://substack.net"
   },
